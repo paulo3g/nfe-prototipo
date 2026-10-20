@@ -1,5 +1,5 @@
-# Protótipo NF-e / NFS-e
+# Protótipo NFS-e
 
-Protótipo navegável (dados simulados, sem comunicação com a SEFAZ ou prefeitura).
+Protótipo navegável do emissor de NFS-e (dados simulados, sem comunicação com a prefeitura).
 
 Acesse: https://paulo3g.github.io/nfe-prototipo/
