@@ -1,5 +1,5 @@
-# Protótipo NFS-e
+# Mais Service
 
-Protótipo navegável do emissor de NFS-e (dados simulados, sem comunicação com a prefeitura).
+Protótipo navegável do emissor de NFS-e (dados simulados).
 
 Acesse: https://paulo3g.github.io/nfe-prototipo/
